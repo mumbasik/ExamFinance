@@ -1,0 +1,8 @@
+Money spent 4000
+Category for spend food
+Date of spending  
+Day: 1
+Month: 7
+Year: 2024
+Storage: 1111
+
